@@ -1,18 +1,18 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url(https://s-media-cache-ak0.pinimg.com/originals/36/75/b0/3675b0aad5e4f0c85248cf1ff663e17d.jpg);
       background-size: cover;
       color: white;
     }
     .nav {
-      color: white;
+      color: purple;
     }
     h1 {
       font-size: 70px;
     }
     img {
       margin: 40px 0px 0px 0px;
-      border: 7px solid white;
+      border: 7px solid red;
       border-radius: 20px;
     }
     ul {
